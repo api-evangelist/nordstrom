@@ -19,6 +19,10 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Nordstrom
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/nordstrom
   - type: Website
     url: https://www.nordstrom.com
   - type: About
