@@ -33,7 +33,7 @@ common:
     url: https://investor.nordstrom.com/
   - type: Press
     url: https://press.nordstrom.com/
-  - type: CustomerService
+  - type: Support
     url: https://www.nordstrom.com/browse/customer-service
 maintainers:
   - FN: API Evangelist
