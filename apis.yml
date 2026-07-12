@@ -19,6 +19,8 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/nordstrom-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/Nordstrom
   - type: LinkedIn
