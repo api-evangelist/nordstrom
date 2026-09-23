@@ -1,7 +1,9 @@
 ---
 title: Nordstrom leverages generative AI for holiday app refresh
 url: https://www.retaildive.com/news/nordstrom-generative-ai-holiday-app-refresh/732977/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nordstrom" press release artificial intelligence'
 position: 1
 source: serpapi-google

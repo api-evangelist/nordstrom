@@ -1,7 +1,9 @@
 ---
 title: 'AI Meets Fashion: Redefining Retail Experiences at ...'
 url: https://brave.com/podcast/e57/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nordstrom" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Nordstrom Announces Investments In Digital Technology
 url: https://press.nordstrom.com/news-releases/news-release-details/nordstrom-announces-investments-digital-technology
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nordstrom" press release artificial intelligence'
 position: 4
 source: serpapi-google

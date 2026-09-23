@@ -1,7 +1,9 @@
 ---
 title: In an AI world, Nordstrom is leaning into human care
 url: https://www.customerexperiencedive.com/news/ai-nordstrom-dedication-human-care/804769/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nordstrom" press release artificial intelligence'
 position: 2
 source: serpapi-google
