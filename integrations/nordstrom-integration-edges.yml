@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: searched
+source:
+- https://monid.ai/tools/nordstrom
+checked:
+- https://composio.dev/toolkits/nordstrom
+- https://monid.ai/tools/nordstrom
+- https://n8n.io/integrations/nordstrom/
+- https://zapier.com/apps/nordstrom/integrations
+summary: null
+marketplace_apps:
+- marketplace: monid
+  channel: agent-gateway
+  app: nordstrom
+  url: https://monid.ai/tools/nordstrom
+  identity: slug
+edges: []
+templates: []
